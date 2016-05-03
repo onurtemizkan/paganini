@@ -144,19 +144,6 @@
  '(font-lock-preprocessor-face ((t (:italic t))))
  '(font-lock-regexp-grouping-backslash ((t (:foreground "#3498db"))))
  '(font-lock-regexp-grouping-construct ((t (:foreground "#3498db"))))
-
-
-;; Rainbow delimiters
- '(rainbow-delimiters-depth-1-face ((t (:foreground "#216b9e"))))
- '(rainbow-delimiters-depth-2-face ((t (:foreground "#2476ae"))))
- '(rainbow-delimiters-depth-3-face ((t (:foreground "#2781be"))))
- '(rainbow-delimiters-depth-4-face ((t (:foreground "#2a8cce"))))
- '(rainbow-delimiters-depth-5-face ((t (:foreground "#3695d6"))))
- '(rainbow-delimiters-depth-6-face ((t (:foreground "#459dd9"))))
- '(rainbow-delimiters-depth-7-face ((t (:foreground "#55a5dc"))))
- '(rainbow-delimiters-depth-8-face ((t (:foreground "#65aedf"))))
- '(rainbow-delimiters-depth-9-face ((t (:foreground "#75b6e3"))))
-`'(rainbow-delimiters-unmatched-face ((t (:foreground "#FF0000"))))
 )
  ;; End face definitions
 
@@ -166,9 +153,5 @@
                (file-name-as-directory (file-name-directory load-file-name))))
 
 (provide-theme 'paganini)
-
-;; Local Variables:
-;; eval: (when (fboundp 'rainbow-mode) (rainbow-mode +1))
-;; End:
 
 ;;; paganini-theme.el ends here
