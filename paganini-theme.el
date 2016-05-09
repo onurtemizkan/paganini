@@ -1,13 +1,13 @@
 ;;; paganini-theme.el --- an Emacs 24 theme based on FireCode
 ;;
 ;;; Author: Onur Temizkan
-;;; Version: 0.1
+;;; Version: 0.11
 ;;
 ;;; Url: https://github.com/onurtemizkan/paganini
 ;;; Package-Requires: ((emacs "24.0"))
 ;;
 ;;; Commentary:
-;;  This theme is based on FireCode
+;;  Dark theme with warm colors.
 ;;
 ;;; Code:
 
