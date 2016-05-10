@@ -1,5 +1,6 @@
 # paganini
 Dark Emacs Theme
+
 [![MELPA](http://melpa.org/packages/paganini-theme-badge.svg)](http://melpa.org/#/paganini-theme)
 [![License MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
