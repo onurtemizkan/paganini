@@ -131,7 +131,7 @@
  '(font-lock-comment-face ((t (:foreground "#6d6d6d"  ))))
  '(font-lock-string-face ((t (:foreground "#3498db"  ))))
  '(font-lock-builtin-face ((t (:foreground "#3498db"))))
- '(font-lock-variable-name-face ((t (:foreground "dark green"))))
+ '(font-lock-variable-name-face ((t (:foreground "medium sea green"))))
  '(font-lock-keyword-face ((t (:foreground "#ff8000" :bold t))))
  '(font-lock-type-face ((t (:foreground "#74C365" :bold t))))
  '(font-lock-function-name-face ((t (:foreground "#FFD500" :bold t))))
