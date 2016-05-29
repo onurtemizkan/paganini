@@ -7,12 +7,12 @@
 ;;; Package-Requires: ((emacs "24.0"))
 ;;
 ;;; Commentary:
-;;  Dark theme with warm colors.
+;;  A colorful, dark and warm theme.
 ;;
 ;;; Code:
 
 (deftheme paganini
-  "paganini-theme - A dark theme based on FireCode")
+  "paganini-theme - A colorful, dark and warm theme.")
 
 (custom-theme-set-variables
  'paganini
