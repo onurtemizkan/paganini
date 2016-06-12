@@ -7,7 +7,7 @@
 ;;; Package-Requires: ((emacs "24.0"))
 ;;
 ;;; Commentary:
-;;  THis theme is based on FireCode
+;;  This theme is based on FireCode
 ;;
 ;;; Code:
 
