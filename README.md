@@ -1,4 +1,4 @@
-# paganini
+# paganini :violin:
 Dark Emacs Theme
 
 [![MELPA](http://melpa.org/packages/paganini-theme-badge.svg)](http://melpa.org/#/paganini-theme)
