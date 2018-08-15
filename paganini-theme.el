@@ -1,13 +1,13 @@
 ;;; paganini-theme.el --- A colorful, dark and warm theme.
 ;;
 ;;; Author: Onur Temizkan
-;;; Version: 0.11
+;;; Version: 0.13
 ;;
 ;;; Url: https://github.com/onurtemizkan/paganini
 ;;; Package-Requires: ((emacs "24.0"))
 ;;
 ;;; Commentary:
-;;  This theme is based on FireCode
+;;  A colorful, dark and warm Emacs theme.
 ;;
 ;;; Code:
 
